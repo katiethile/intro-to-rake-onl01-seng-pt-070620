@@ -1,4 +1,4 @@
-desc ''
+desc 'the connection to environment.rb file'
 task :environment do
   require_relative './config/environment'
 end
